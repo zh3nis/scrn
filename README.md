@@ -1,5 +1,5 @@
 ## SCRN Language Models
-Code for the Structurally Constrained Recurrent Network models from the paper [Reproducing and Regularizing the SCRN Model](https://masked) 
+Code for the Structurally Constrained Recurrent Network models from the paper Reproducing and Regularizing the SCRN Model (COLING 2018) 
 
 ### Requirements
 Code is written in Python 3 and requires TensorFlow 1.1+. It also requires the following Python modules: `numpy`, `argparse`. You can install them via:
